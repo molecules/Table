@@ -1,0 +1,8 @@
+{
+  "name"        : "Table",
+  "version"     : "0.01",
+  "description" : "Convert a table of data into a nested hash",
+  "provides"    : { "Table": "lib/Table.pm6",  },
+  "depends"     : [],
+  "source-url"  : "git://github.com/molecules/Table.git"
+}
